@@ -1,0 +1,20 @@
+Status: 200
+Answer: Here's the explanation:
+
+1. **Euclid's Division Algorithm** is a process that helps us divide any positive integer `a` by another positive integer `b` in such a way that it leaves a remainder `r` that is smaller than `b`.
+2. The algorithm states that there exist unique integers `q` and `r`, where `0 ≤ r < b`, such that `a = bq + r`.
+
+**Key terms:** **Euclid's Division Algorithm**, **positive integer**, **remainder**, **divisibility**
+
+---
+**Quick Check:** Can you give an example of how Euclid's Division Algorithm works when dividing 18 by 5?
+Full JSON: {
+  "answer": "Here's the explanation:\n\n1. **Euclid's Division Algorithm** is a process that helps us divide any positive integer `a` by another positive integer `b` in such a way that it leaves a remainder `r` that is smaller than `b`.\n2. The algorithm states that there exist unique integers `q` and `r`, where `0 \u2264 r < b`, such that `a = bq + r`.\n\n**Key terms:** **Euclid's Division Algorithm**, **positive integer**, **remainder**, **divisibility**\n\n---\n**Quick Check:** Can you give an example of how Euclid's Division Algorithm works when dividing 18 by 5?",
+  "sources": [
+    {
+      "subject": "maths",
+      "chapter_id": "real_numbers",
+      "lesson_id": "real_numbers_introduction"
+    }
+  ]
+}

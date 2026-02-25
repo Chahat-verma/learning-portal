@@ -1,0 +1,14 @@
+maths/real_numbers: 5 chunks
+maths/polynomials: 5 chunks
+maths/pair_of_linear_equations: 5 chunks
+maths/quadratic_equations: 5 chunks
+science/chemical_reactions_and_equations: 5 chunks
+science/acids_bases_and_salts: 5 chunks
+science/ch03_metals_and_nonmetals: 5 chunks
+science/carbon_and_its_compounds: 5 chunks
+
+FUZZY:
+acids_bases -> acids_bases_and_salts
+chemical_reactions -> chemical_reactions_and_equations
+linear_equations -> pair_of_linear_equations
+metals_nonmetals -> ch03_metals_and_nonmetals

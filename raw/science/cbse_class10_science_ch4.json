@@ -1,0 +1,79 @@
+[
+    {
+        "channel_id": "cbse_class10_science",
+        "class": "10",
+        "subject": "Science",
+        "chapter_id": "carbon_and_its_compounds",
+        "chapter_name": "Carbon and its Compounds",
+        "lesson_id": "ch04_l01_bonding_in_carbon",
+        "lesson_title": "Bonding in Carbon - The Covalent Bond",
+        "content_type": "theory",
+        "content": "Carbon has four electrons in its outermost shell and needs to gain or lose four electrons to attain noble gas configuration. It could gain four electrons forming C4- anion, but it would be difficult for the nucleus with six protons to hold on to ten electrons. It could lose four electrons forming C4+ cation, but that would require a large amount of energy to remove four electrons. Carbon overcomes this problem by sharing its valence electrons with other atoms of carbon or with atoms of other elements. The bonds formed by sharing electrons are known as covalent bonds. In covalent bonding, both the atoms share the valence electrons to complete their octet. Carbon forms very strong covalent bonds because of its small size. The shared pair of electrons constitutes a single covalent bond, represented by a line between the two atoms."
+    },
+    {
+        "channel_id": "cbse_class10_science",
+        "class": "10",
+        "subject": "Science",
+        "chapter_id": "carbon_and_its_compounds",
+        "chapter_name": "Carbon and its Compounds",
+        "lesson_id": "ch04_l02_versatile_nature_of_carbon",
+        "lesson_title": "Versatile Nature of Carbon",
+        "content_type": "theory",
+        "content": "Carbon is a versatile element that forms the basis for all living organisms and many of the things we use. This large variety of compounds is formed because of two characteristic properties of carbon: (i) Catenation — The unique ability of carbon to form bonds with other atoms of carbon, giving rise to large molecules. The carbon-carbon bond is very strong and hence stable. This property is called catenation. Carbon can form straight chains, branched chains, and rings. (ii) Tetravalency — Since carbon has a valency of four, it is capable of bonding with four other atoms of carbon or atoms of some other mono-valent element. Compounds of carbon are formed with oxygen, hydrogen, nitrogen, sulphur, chlorine and many other elements, giving rise to compounds with specific properties which depend on the elements other than carbon present in the molecule."
+    },
+    {
+        "channel_id": "cbse_class10_science",
+        "class": "10",
+        "subject": "Science",
+        "chapter_id": "carbon_and_its_compounds",
+        "chapter_name": "Carbon and its Compounds",
+        "lesson_id": "ch04_l03_saturated_unsaturated",
+        "lesson_title": "Saturated and Unsaturated Carbon Compounds",
+        "content_type": "theory",
+        "content": "Saturated compounds of carbon are those in which the carbon atoms are linked to each other by only single bonds. These are called saturated compounds because each carbon is bonded to the maximum number of hydrogen atoms. They are called alkanes with general formula CnH2n+2. For example, methane CH4, ethane C2H6, propane C3H8, butane C4H10, and pentane C5H12. Unsaturated compounds contain double bonds or triple bonds between carbon atoms. Carbon compounds having double bonds are called alkenes with general formula CnH2n. For example, ethene C2H4 and propene C3H6. Carbon compounds having triple bonds are called alkynes with general formula CnH2n-2. For example, ethyne C2H2 and propyne C3H4."
+    },
+    {
+        "channel_id": "cbse_class10_science",
+        "class": "10",
+        "subject": "Science",
+        "chapter_id": "carbon_and_its_compounds",
+        "chapter_name": "Carbon and its Compounds",
+        "lesson_id": "ch04_l04_nomenclature",
+        "lesson_title": "Nomenclature of Carbon Compounds",
+        "content_type": "theory",
+        "content": "The naming of carbon compounds is based on the IUPAC nomenclature system. The name of a carbon compound is derived from the number of carbon atoms in it. One carbon: Meth-, Two carbons: Eth-, Three carbons: Prop-, Four carbons: But-, Five carbons: Pent-, Six carbons: Hex-. The suffix depends on whether the compound contains a single, double, or triple bond. Single bonds use -ane (alkanes), double bonds use -ene (alkenes), and triple bonds use -yne (alkynes). Functional groups also modify the name. The common functional groups are: halo- (halides like Cl, Br), -ol (alcohol, -OH), -al (aldehyde, -CHO), -one (ketone, C=O), -oic acid (carboxylic acid, -COOH). For example, CH3OH is methanol, CH3CHO is ethanal, CH3COOH is ethanoic acid."
+    },
+    {
+        "channel_id": "cbse_class10_science",
+        "class": "10",
+        "subject": "Science",
+        "chapter_id": "carbon_and_its_compounds",
+        "chapter_name": "Carbon and its Compounds",
+        "lesson_id": "ch04_l05_chemical_properties",
+        "lesson_title": "Chemical Properties of Carbon Compounds",
+        "content_type": "theory",
+        "content": "Combustion: Carbon and its compounds burn in oxygen or air to produce carbon dioxide, water, heat, and light. Saturated hydrocarbons burn with a clean blue flame while unsaturated hydrocarbons burn with a yellow sooty flame. CH4 + 2O2 → CO2 + 2H2O. Oxidation: Some carbon compounds can be oxidised further using oxidising agents like alkaline potassium permanganate (KMnO4) or acidified potassium dichromate (K2Cr2O7). For example, ethanol is oxidised to ethanoic acid: CH3CH2OH → CH3COOH. Addition reaction: Unsaturated hydrocarbons add hydrogen in the presence of catalysts such as palladium or nickel to form saturated hydrocarbons. This is called hydrogenation. For example, vegetable oils are converted to vegetable ghee through this reaction. Substitution reaction: Saturated hydrocarbons are fairly unreactive, but in the presence of sunlight, chlorine can replace hydrogen atoms. CH4 + Cl2 → CH3Cl + HCl."
+    },
+    {
+        "channel_id": "cbse_class10_science",
+        "class": "10",
+        "subject": "Science",
+        "chapter_id": "carbon_and_its_compounds",
+        "chapter_name": "Carbon and its Compounds",
+        "lesson_id": "ch04_l06_ethanol_ethanoic_acid",
+        "lesson_title": "Ethanol and Ethanoic Acid",
+        "content_type": "theory",
+        "content": "Ethanol (C2H5OH or CH3CH2OH): Ethanol is a colourless liquid with a pleasant smell. It is commonly called alcohol. It is used in medicines (tincture iodine), alcoholic beverages, as a solvent, and as fuel. Ethanol reacts with sodium to produce hydrogen gas: 2Na + 2CH3CH2OH → 2CH3CH2ONa + H2. Ethanol is dehydrated by heating with excess concentrated sulphuric acid at 443 K to form ethene: CH3CH2OH → CH2=CH2 + H2O. Ethanoic acid (CH3COOH): This is a common carboxylic acid, also known as acetic acid. A 5-8% solution of acetic acid in water is called vinegar. Pure acetic acid freezes during winter and resembles ice, so it is called glacial acetic acid. Ethanoic acid reacts with sodium hydroxide to form sodium ethanoate and water: CH3COOH + NaOH → CH3COONa + H2O. It reacts with carbonates and bicarbonates to produce salt, water, and carbon dioxide: 2CH3COOH + Na2CO3 → 2CH3COONa + H2O + CO2."
+    },
+    {
+        "channel_id": "cbse_class10_science",
+        "class": "10",
+        "subject": "Science",
+        "chapter_id": "carbon_and_its_compounds",
+        "chapter_name": "Carbon and its Compounds",
+        "lesson_id": "ch04_l07_soaps_and_detergents",
+        "lesson_title": "Soaps and Detergents",
+        "content_type": "theory",
+        "content": "Soaps are sodium or potassium salts of long-chain carboxylic acids (fatty acids). The process of making soap by heating fat or oil with sodium hydroxide is called saponification. Soap molecules have two parts: a long hydrocarbon chain which is hydrophobic (water-repelling) and a short ionic end containing -COONa+ which is hydrophilic (water-attracting). When soap is at the surface of water, the hydrophobic tail protrudes out of water while the ionic end remains in water. Inside water, soap molecules form clusters called micelles where the hydrophobic tails point inward and the ionic ends face outward. Grease or oil on clothes gets trapped inside the micelles, which are then washed away with water. Soap does not work well in hard water because calcium and magnesium ions form insoluble curds. Detergents are ammonium or sulphonate salts of long-chain carboxylic acids. They work effectively even in hard water because they do not form insoluble precipitates with calcium and magnesium ions."
+    }
+]

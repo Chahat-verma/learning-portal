@@ -1,0 +1,3 @@
+SUBJECTS: ['maths', 'science']
+maths: ['real_numbers', 'polynomials', 'pair_of_linear_equations', 'quadratic_equations'] (61 lessons)
+science: ['chemical_reactions_and_equations', 'acids_bases_and_salts', 'ch03_metals_and_nonmetals', 'carbon_and_its_compounds'] (55 lessons)
